@@ -1,0 +1,20 @@
+#title{
+    text-transform: uppercase;
+    color: crimson;
+}
+#image{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px 50px 0px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px 20px 0px;
+    font-family: fantasy;
+}
